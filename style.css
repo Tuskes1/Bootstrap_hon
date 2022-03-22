@@ -7,9 +7,21 @@ body{
 }
 
 .magyarkep{
-
+    
 }
 
 #lovag{
     border-radius: 101px;
+}
+
+.linkk{
+    text-decoration: none;
+    text-align: center;
+    color: orange;
+
+}
+
+.linkk a:hover{
+    text-decoration: none;
+    color: red;
 }
