@@ -10,11 +10,16 @@ background-image: url("Backgroungimg.webp   ");
 .linkk{
     text-decoration: none;
     text-align: center;
-    color: orange;
-
 }
 
 .linkk a:hover{
     text-decoration: none;
     color: red;
+}
+
+#terkep{
+    width: 900px;
+    padding-left: 200px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
 }
